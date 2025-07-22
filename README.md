@@ -16,7 +16,7 @@ Add tasks, customize colors, reorder them, and stay organized — all in one pla
 ---
 
 ## 💻 Demo
-#### 🔗 [Level Up List ](https://Arul-Kaarthikeyan.github.io/task-tracker-react)
+#### 🔗 [Level Up List ](https://Arul-Kaarthikeyan.github.io/task-tracker-react/)
 
 ---
 
