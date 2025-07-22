@@ -30,7 +30,7 @@ Add tasks, customize colors, reorder them, and stay organized — all in one pla
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/level-up-list.git
+git clone https://github.com/Arul-Kaarthikeyan/task-tracker-react.git
 cd level-up-list
 npm install
 npm start
