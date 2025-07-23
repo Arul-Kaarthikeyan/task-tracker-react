@@ -31,6 +31,6 @@ Add tasks, customize colors, reorder them, and stay organized — all in one pla
 
 ```bash
 git clone https://github.com/Arul-Kaarthikeyan/task-tracker-react.git
-cd level-up-list
+cd task-tracker-react  
 npm install
-npm start
+npm run dev
