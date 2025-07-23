@@ -36,15 +36,17 @@ function App() {
     updatedTasks[index].color = targetColor;
     setTask(updatedTasks);
   }
+  
 
   return (
     <>
       <div className='inputform'>
-        <b><h1 class="title">Level Up List 📝</h1></b>
+        <b><h1 className="title">Level Up List 📝</h1></b>
         <input
           type="text"
           placeholder="Enter the task"
           value={newTask}
+          onKeyDown={(e)=>{ if (e.key==="Enter"){ addTask(); }}}
           onChange={(e) => setNewTask(e.target.value)}
         />
         <button className="add" onClick={addTask}>✚</button>
@@ -63,6 +65,7 @@ function App() {
             type="color"
             value={task.color}
             onChange={(e) => changeColor(index, e.target.value)}
+            
           />
         </div>
       ))}
