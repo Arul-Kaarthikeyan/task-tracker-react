@@ -1,7 +1,6 @@
 # Level Up List
 
 A minimal and interactive **To-Do List App** built using **React**.  
-Add tasks, customize colors, reorder them, and stay organized — all in one place!
 
 ---
 
