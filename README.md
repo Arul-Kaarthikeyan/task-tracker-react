@@ -11,7 +11,6 @@ Add tasks, customize colors, reorder them, and stay organized — all in one pla
 -  Choose a custom color for each task  
 -  Move tasks up /  down based on priority  
 -  Delete tasks  
--  Clean, simple UI  
 
 ---
 
