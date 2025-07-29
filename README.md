@@ -1,11 +1,11 @@
-# 📝 Level Up List
+# Level Up List
 
 A minimal and interactive **To-Do List App** built using **React**.  
 Add tasks, customize colors, reorder them, and stay organized — all in one place!
 
 ---
 
-## 🚀 Features
+## Features
 
 - ✅ Add new tasks  
 - 🎨 Choose a custom color for each task  
@@ -15,19 +15,19 @@ Add tasks, customize colors, reorder them, and stay organized — all in one pla
 
 ---
 
-## 💻 Demo
-#### 🔗 [Level Up List ](https://Arul-Kaarthikeyan.github.io/task-tracker-react/)
+## Demo
+#### [Level Up List ](https://Arul-Kaarthikeyan.github.io/task-tracker-react/)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-- ⚛️ **React JS**
-- 🎨 **CSS**
+- **React JS**
+- **CSS**
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 git clone https://github.com/Arul-Kaarthikeyan/task-tracker-react.git
