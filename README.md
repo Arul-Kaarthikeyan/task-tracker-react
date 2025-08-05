@@ -2,7 +2,6 @@
 
 A minimal and interactive **To-Do List App** built using **React**.  
 
----
 
 ## Features
 
@@ -11,19 +10,19 @@ A minimal and interactive **To-Do List App** built using **React**.
 -  Move tasks up /  down based on priority  
 -  Delete tasks  
 
----
+
 
 ## Demo
 #### [Level Up List ](https://Arul-Kaarthikeyan.github.io/task-tracker-react/)
 
----
+
 
 ## Tech Stack
 
 - **React JS**
 - **CSS**
 
----
+
 
 ## Installation
 
