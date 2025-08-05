@@ -12,8 +12,7 @@ A minimal and interactive **To-Do List App** built using **React**.
 
 
 
-## Demo
-#### [Level Up List ](https://Arul-Kaarthikeyan.github.io/task-tracker-react/)
+## Demo : [Level Up List ](https://Arul-Kaarthikeyan.github.io/task-tracker-react/)
 
 
 
